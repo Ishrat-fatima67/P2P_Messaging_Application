@@ -1,0 +1,1 @@
+Developed a Peer-to-Peer messaging application using TCP sockets, enabling real-time decentralized communication between multiple clients. Implemented multithreading for concurrent connections with group chat and message broadcasting. Added file sharing with basic encryption for secure and efficient data transfer.
